@@ -133,9 +133,19 @@ The results show that the model achieves good precision, while recall and macro-
 - TensorFlow
 - Keras
 
+## Project Materials
+
+Additional materials for this project are available below.
+
+- **Project Notebook:** Full deep learning pipeline, including data preprocessing, model configuration, training, hyperparameter tuning and evaluation. [Open the notebook](Deep_Learning_Project.ipynb)
+
+- **Conceptual Architecture:** Diagram of the proposed multi-input neural network. [View the architecture](Figures/model_architecture.png)
+
+- **Keras Model Graph:** Model graph generated from the implemented Keras architecture. [View the model graph](Figures/final_model_graph.png)
+
 ## Author
 
-**Irene Marrali**  
-BSc Artificial Intelligence
+Irene Marrali 
+BSc in Artificial Intelligence @ Università degli Studi di Milano, Università degli Studi di Pavia, Università degli Studi di Milano-Bicocca
 
 
